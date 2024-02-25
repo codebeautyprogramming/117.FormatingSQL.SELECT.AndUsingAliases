@@ -1,0 +1,2 @@
+select * from Recipes join RecipeTypes
+on Recipes.RecipeTypeId = RecipeTypes.Id
